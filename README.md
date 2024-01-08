@@ -53,3 +53,4 @@ Visually estimate the result by plotting the daily minimum temperature.
 
 * Export the DataFrame to a CSV file.
 
+While completing this assignment, I made use of Stack Overflow, Ask BCS Learning Assistant and a tutoring session.
