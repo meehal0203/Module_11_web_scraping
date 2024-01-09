@@ -12,7 +12,7 @@ Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 
 ## Part 1.
 ### Use automated browsing to visit the Mars news siteLinks to an external site.. Inspect the page to identify which elements to scrape.
-
+[link to Part 1 code](part_1_mars_news.ipynb)
 
 * Create a Beautiful Soup object and use it to extract text elements from the website.
 
@@ -26,8 +26,10 @@ Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 
 * Store the scraped data in a file to ease sharing the data with others, exporting the scraped data to a JSON file.
 
-* ## Part 2.
+## Part 2.
 ### Use automated browsing to visit the Mars Temperature Data SiteLinks to an external site.. Inspect the page to identify which elements to scrape.
+
+[Link to Part 2 code](part_2_mars_weather.ipynb)
 
 * Create a Beautiful Soup object and use it to scrape the data in the HTML table.
 
